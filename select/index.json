@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "SILLAGE",
+  "base_artist": "RAZOR",
+  "createdAt": "2026-02-08T14:27:46.505538Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sillage (Outro)",
+      "artist": "Crywolf",
+      "has_synced": true,
+      "path": "select/01_Sillage_(Outro)_Crywolf.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sillage",
+      "artist": "Dyssidia",
+      "has_synced": false,
+      "path": "select/02_Sillage_Dyssidia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sillage ~ シアージュ",
+      "artist": "Yumi Matsutoya",
+      "has_synced": false,
+      "path": "select/03_Sillage_~_シアージュ_Yumi_Matsutoya.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sillage ～ シアージュ",
+      "artist": "松任谷由実",
+      "has_synced": false,
+      "path": "select/04_Sillage_~_シアージュ_松任谷由実.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sillage～シアージュ",
+      "artist": "松任谷由実",
+      "has_synced": false,
+      "path": "select/05_Sillage~シアージュ_松任谷由実.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sillage (feat. slchld)",
+      "artist": "IOAH",
+      "has_synced": true,
+      "path": "select/06_Sillage_(feat._slchld)_IOAH.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Antwort (feat. Sillage)",
+      "artist": "Bawsti",
+      "has_synced": false,
+      "path": "select/07_Antwort_(feat._Sillage)_Bawsti.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SILLAGE",
+      "artist": "RAZOR",
+      "has_synced": false,
+      "path": "select/pl_01_SILLAGE_RAZOR.txt"
+    }
+  ]
+}
